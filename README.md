@@ -19,9 +19,9 @@ in this assignment I didn't use any library to find similarity between texts.
 	@ I HAVE USED DICTIONARIES AND LIST
  
 # To run the app:
-1. clone the repo onto your local machine.
-2. Set the environment 
-3. Run the Code 
+1. clone the repo onto your local machine: git clone https://github.com/RyanAbnavi/Text_similarity_app
+2. Set the environment: CD "to the app directory" / pip install -r /path/to/requirements.txt
+3. Run the Code: python app.py
 
 There is an option for REMOVING STOP WORDS and also another option for using TF-TDF 
 VECTORIZER. if tf-idf set to 'No' then CountVectorizer will be used. 
